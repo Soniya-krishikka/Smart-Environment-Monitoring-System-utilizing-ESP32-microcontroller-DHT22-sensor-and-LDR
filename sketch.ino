@@ -8,9 +8,9 @@ const char* WIFI_PASSWORD = "";
 
 // Replace with your ThingSpeak API key and Channel ID
 const char* server = "http://api.thingspeak.com/update";
-const char* apiKey = "8LZ46D2443YINRC5";
+const char* apiKey = "YOUR_THINGSPEAK_WRITE_API_KEY";
 // Replace with your Zapier Webhook URL
-const char* zapierWebhookUrl = "https://hooks.zapier.com/hooks/catch/19441308/23v0umo/";
+const char* zapierWebhookUrl = "YOUR_ZAPIER_WEBHOOK_URL";
 
 // Pin configuration
 const int DHTPin = 15;
